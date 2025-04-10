@@ -1,0 +1,13 @@
+
+body {
+  margin: auto;
+  max-width: 800px;
+  padding: 1rem;
+  font-size: x-large;
+  
+  display: flex;
+  /* place-items: center; */
+  min-width: 320px;
+  min-height: 100vh;
+}
+
