@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { RootState, AppDispatch } from "../store/store";
 import { Box, Button, Grid, LinearProgress, Paper, Typography } from "@mui/material";
 import { CheckCircle, Delete} from "@mui/icons-material";
-import { toggleHabit, removeHabit } from "../store/habit-slice";
+import { toggleHabit, removeHabit, Habit} from "../store/habit-slice";
 
 const HabitList: React.FC =() =>{
 
