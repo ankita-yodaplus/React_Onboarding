@@ -1,0 +1,1 @@
+export const apiLink = "https://date.nager.at/api/v3/PublicHolidays/2024/CH"
